@@ -7,7 +7,7 @@ using System.Data.OleDb;
 
 namespace Baglan
 {
-    class Baglan
+    class Baglan //
     {
 
        
